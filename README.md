@@ -1,2 +1,3 @@
-# C-plus-programs
-Hello this is repo for C plus program and if you are learning C plus You may find this repo helpful :)
+Here are some of the programm in C++ that will be helpful for clearing your OOP concepts topicwise.
+
+# 5. Inheritance
