@@ -3,7 +3,7 @@ Here are some of the programm in C++ that will be helpful for clearing your OOP 
 # 5. Inheritance
 # 6. Virtual function,polymorphism and miscellaneous C++ features
 # 7. Function Templates and Exception handling
-* Function templates  
+### Function templates  
 Function template is a way to make your function generalizes as far as data type is concern.
 It is made to avoid function overloading with only data type difference.  
 Syntax:  
