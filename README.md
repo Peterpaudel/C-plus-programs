@@ -21,3 +21,16 @@ type func_name(type1 arg1, type2 arg2);
 ```
 * [Sample program that show template function](https://github.com/Utshav-paudel/C-plus-programs/blob/b97e6a3f566ebc1bb00dc1facd9304f96c1e4984/code/Function%20template%20and%20Exception%20handling/Templates/function_temp.cpp)
 
+### Exception Handling  
+Exception are off beat situations in your program where your program should be ready to handle it with appropriate response. C++ provides built in error handling mehcanism that is called exception handling.  
+
+Syntax:  
+```C++
+try{//throw statement here}
+catch(type1 arg){}
+catch(type2 arg){}
+```
+Note: datatype in throw and catch argument should be same otherwise it will throw error,also argument in catch is optional.  
+* [sample program for exception handling](https://github.com/Utshav-paudel/C-plus-programs/blob/5ef5967083e233908b055e89266a256d5843031d/code/Function%20template%20and%20Exception%20handling/exception%20handling/sample_program_exception_handling.cpp)
+* [wap to catch any type of exception](https://github.com/Utshav-paudel/C-plus-programs/blob/5ef5967083e233908b055e89266a256d5843031d/code/Function%20template%20and%20Exception%20handling/exception%20handling/wap%20to%20catch%20any%20type%20of%20exception.cpp)
+* [wap to show multiple exception handling i.e(one try statement and multiple catch statement)](https://github.com/Utshav-paudel/C-plus-programs/blob/7827ac65c92afc5d488d9b63928e940f6578691a/code/Function%20template%20and%20Exception%20handling/exception%20handling/using%20multiple%20catch%20statement.cpp)
