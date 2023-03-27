@@ -31,4 +31,6 @@ catch(type1 arg){}
 catch(type2 arg){}
 ```
 Note: datatype in throw and catch argument should be same otherwise it will throw error,also argument in catch is optional.  
-
+* [sample program for exception handling](https://github.com/Utshav-paudel/C-plus-programs/blob/5ef5967083e233908b055e89266a256d5843031d/code/Function%20template%20and%20Exception%20handling/exception%20handling/sample_program_exception_handling.cpp)
+* [wap to catch any type of exception](https://github.com/Utshav-paudel/C-plus-programs/blob/5ef5967083e233908b055e89266a256d5843031d/code/Function%20template%20and%20Exception%20handling/exception%20handling/wap%20to%20catch%20any%20type%20of%20exception.cpp)
+* [wap to show multiple exception handling i.e(one try statement and multiple catch statement)](https://github.com/Utshav-paudel/C-plus-programs/blob/5ef5967083e233908b055e89266a256d5843031d/code/Function%20template%20and%20Exception%20handling/exception%20handling/wap%20to%20catch%20any%20type%20of%20exception.cpp)
