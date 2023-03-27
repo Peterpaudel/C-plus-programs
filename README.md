@@ -30,4 +30,5 @@ try{//throw statement here}
 catch(type1 arg){}
 catch(type2 arg){}
 ```
-Note: datatype in throw and catch argument should be same otherwise it will throw error  
+Note: datatype in throw and catch argument should be same otherwise it will throw error,also argument in catch is optional.  
+
