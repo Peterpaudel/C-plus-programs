@@ -1,7 +1,7 @@
 Here are some of the programm in C++ that will be helpful for clearing your OOP concepts topicwise.
 
 # 5. Inheritance
-* [constructor in inheritance](https://github.com/Utshav-paudel/C-plus-programs/blob/be7a47fb8cd326f62748bbbc7https://github.com/Utshav-paudel/C-plus-programs/blob/be7a47fb8cd326f62748bbbc7faf9fc09c2cdd12/code/inheritance%20program/destructor%20in%20inheritance.cppfaf9fc09c2cdd12/code/inheritance%20program/constuctor%20in%20inheritance.cpp)
+* [constructor in inheritance](https://github.com/Utshav-paudel/C-plus-programs/blob/43c9d4ce41b819ed2af3f3a29bf9dc9d7479a3cc/code/inheritance%20program/constuctor%20in%20inheritance.cpp)
 * [destructor in inheritance ](https://github.com/Utshav-paudel/C-plus-programs/blob/be7a47fb8cd326f62748bbbc7faf9fc09c2cdd12/code/inheritance%20program/destructor%20in%20inheritance.cpp)
 * [ambguity in multiple inheritance](https://github.com/Utshav-paudel/C-plus-programs/blob/be7a47fb8cd326f62748bbbc7faf9fc09c2cdd12/code/inheritance%20program/ambguity%20in%20multipath.cpp)
 # 6. Virtual function,polymorphism and miscellaneous C++ features
