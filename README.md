@@ -23,6 +23,7 @@ template<class type1,class type2>
 type func_name(type1 arg1, type2 arg2);
 ```
 * [Sample program that show template function](https://github.com/Utshav-paudel/C-plus-programs/blob/b97e6a3f566ebc1bb00dc1facd9304f96c1e4984/code/Function%20template%20and%20Exception%20handling/Templates/function_temp.cpp)
+* [write a program to create a template class for stack implementation ](https://github.com/Utshav-paudel/C-plus-programs/blob/975b6c22ec67ddfeca1c81d16e30dc3a641ac0bf/code/Function%20template%20and%20Exception%20handling/Templates/template%20of%20stack.cpp)
 
 ### Exception Handling  
 Exception are off beat situations in your program where your program should be ready to handle it with appropriate response. C++ provides built in error handling mehcanism that is called exception handling.  
