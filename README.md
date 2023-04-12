@@ -5,6 +5,9 @@ Here are some of the programm in C++ that will be helpful for clearing your OOP 
 * [destructor in inheritance ](https://github.com/Utshav-paudel/C-plus-programs/blob/be7a47fb8cd326f62748bbbc7faf9fc09c2cdd12/code/inheritance%20program/destructor%20in%20inheritance.cpp)
 * [ambguity in multiple inheritance](https://github.com/Utshav-paudel/C-plus-programs/blob/be7a47fb8cd326f62748bbbc7faf9fc09c2cdd12/code/inheritance%20program/ambguity%20in%20multipath.cpp)
 # 6. Virtual function,polymorphism and miscellaneous C++ features
+* Polymorphism  
+Polymorhism is the characteristics of oop where ,The word “polymorphism” means having many forms. In simple words, we can define polymorphism as the ability of a message to be displayed in more than one form.
+[alt text](https://github.com/Utshav-paudel/C-plus-programs/blob/59bf11df05455553b192e17e0fd401eba2734d37/code/polymorphism.png)
 # 7. Function Templates and Exception handling
 ### Function templates  
 Function template is a way to make your function generalizes as far as data type is concern.
