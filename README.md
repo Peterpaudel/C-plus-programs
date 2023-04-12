@@ -1,4 +1,4 @@
-Here are some of the programm in C++ that will be helpful for clearing your OOP concepts topicwise.
+Here are some of the program in C++ that will be helpful for clearing your OOP concepts topicwise.
 
 # 5. Inheritance
 * [constructor in inheritance](https://github.com/Utshav-paudel/C-plus-programs/blob/43c9d4ce41b819ed2af3f3a29bf9dc9d7479a3cc/code/inheritance%20program/constuctor%20in%20inheritance.cpp)
