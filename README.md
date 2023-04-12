@@ -7,7 +7,7 @@ Here are some of the programm in C++ that will be helpful for clearing your OOP 
 # 6. Virtual function,polymorphism and miscellaneous C++ features
 * Polymorphism  
 Polymorhism is the characteristics of oop where ,The word “polymorphism” means having many forms. In simple words, we can define polymorphism as the ability of a message to be displayed in more than one form.
-[alt text](https://github.com/Utshav-paudel/C-plus-programs/blob/59bf11df05455553b192e17e0fd401eba2734d37/code/polymorphism.png)
+[!alt text](https://github.com/Utshav-paudel/C-plus-programs/blob/59bf11df05455553b192e17e0fd401eba2734d37/code/polymorphism.png)
 # 7. Function Templates and Exception handling
 ### Function templates  
 Function template is a way to make your function generalizes as far as data type is concern.
